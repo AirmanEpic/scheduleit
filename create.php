@@ -8,7 +8,11 @@
 </head>
 <body>
 <section class="center">
-	
+	<h1> Create new operation </h1>
+	<h2> Name: </h2>
+	<div class="button createbutton"><p>Create</p></div>
+	<p class="accesshere">Access URL: please wait</p>
+	<p class="deletehere">Delete URL: please wait</p>
 </section>
 <script src="app.js"></script>
 </body>
