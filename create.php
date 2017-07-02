@@ -13,6 +13,7 @@
 	<div class="horbox" style="margin:16px"><h2 style="margin-right:16px"> Name: </h2> <input class="namein" placeholder="Cool New thing"></div>
 	<br>
 	<div class="button createbutton"><p>Create</p></div>
+	<p class="errortext"></p>
 	<p class="accesshere">Access URL: please wait</p>
 	<p class="deletehere">Delete URL: please wait</p>
 </section>
